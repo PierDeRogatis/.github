@@ -32,7 +32,13 @@ Open source is a labor of love, but it has real-world costs. Your sponsorship is
 * **🤖 API & Service Fees:** Costs for AI models, mapping services, and other essential APIs.
 * **🕰️ My Most Valuable Asset: Time.** Your support allows me to dedicate focused hours away from client work to design, code, and maintain this ecosystem. It's the fuel that turns ideas into features.
 
-Every contribution, no matter the size, accelerates this mission and helps keep the entire ecosystem free and open for everyone.
+## ❤️ Support the Mission
+
+This project is a labor of love, built on the belief that we can use technology to unlock our potential. If you find value in my work, please consider supporting the journey.
+
+* **💻 For Developers (GitHub Sponsors):** If you want to support the code, the infrastructure, and the open-source development directly, sponsoring on GitHub is the most efficient way. **[Sponsor me on GitHub]([your-github-sponsors-link](https://github.com/sponsors/PierDeRogatis)**
+
+* **Community & Content (Patreon):** If you want to join the community, get behind-the-scenes content, exclusive articles about the mindset of performance, and follow my journey as an athlete and engineer, Patreon is the place to be. **[Join my Patreon](https://patreon.com/PierDeRogatis?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)**
 
 ---
 
