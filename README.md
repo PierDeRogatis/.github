@@ -6,7 +6,7 @@
 
 ### Ciao! I'm Pierluigi De Rogatis. 👋
 
-Greetings from Caserta, Italy. By day, I'm a software engineer and architect, but my true laboratory is the rugged trails and mountains of ultra-marathons.
+Greetings from Caserta, Italy. By day, I'm a business developer and software enthusiast, but my true laboratory is the rugged trails and mountains of ultra-marathons.
 
 For me, running 100 miles and writing 10,000 lines of code are not that different. Both demand **discipline, resilience, and a data-driven obsession with performance**. The same mental fortitude that gets me through a grueling race at 3 AM is what fuels me during a long night of debugging.
 
@@ -22,7 +22,7 @@ It's a suite of web applications, powered by AI, designed to be your intelligent
 * **Productivity:** Understanding your focus patterns and energy levels.
 * **Lifestyle:** Building sustainable habits for long-term health.
 
-I'm building the tools I wish I had when I started—tools that are open, accessible, and built on the philosophy that technology should empower us.
+I'm building the tools I wish I had when I started: tools that are open, accessible, and built on the philosophy that technology should empower us.
 
 ## Why Your Sponsorship Matters 🙏
 
